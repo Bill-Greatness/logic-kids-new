@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300&display=swap');
+
+body, html{
+    padding:10px;
+    box-sizing: border-box;
+    
+}
+
+
+
+.navigate{
+  background-image: linear-gradient(78deg,#1F3F49, #1C4E80 )  !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.active{
+    color:#ffff !important;
+}
+
+.w-seg{
+    position: absolute;
+    margin:0px !important;
+    padding:0px !important;
+    top:4%;
+    border-radius: 0px !important;
+}
+
+.bgs{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ptop{
+    padding-top:100px !important;
+    font-weight: bolder !important;
+}
+
+.w-img{
+    object-fit: fill;
+    height: 350px !important;
+}
+
+.welcome-message{
+    position: absolute;
+    top:40%;
+}
+
+.mob-view{
+    display: none !important;
+}
+
+.desk-view{
+    display: inline-flex !important;
+}
+
+/* Borrowed Code */
+
+.ml11 {
+    font-weight: 800;
+    color: white !important;
+    font-size: 5.5em;
+  }
+  
+  .ml11 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.1em;
+    padding-right: 0.05em;
+    padding-bottom: 0.15em;
+  }
+  
+  .ml11 .line {
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 3px;
+    background-color: #fff;
+    transform-origin: 0 50%;
+  }
+  
+  .ml11 .line1 { 
+    top: 0; 
+    left: 0;
+  }
+  
+  .ml11 .letter {
+    display: inline-block;
+    line-height: 1em;
+    color: white !important;
+  }
+
+  /* End Borrowed Code */
+
+@media screen and (max-width:700px){
+    .desk-view{
+        display:none !important;
+    }
+    .mob-view{
+        display: block !important;
+    }
+
+    .w-img{
+        object-fit:  cover;
+        height: 230px !important;
+    }
+
+    #nav-side{
+        background-image: linear-gradient(78deg,#1F3F49, #1C4E80 )  !important;
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+        background-size: cover !important;
+        color:#fff !important;
+    }
+
+      
+}
