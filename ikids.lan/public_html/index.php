@@ -30,7 +30,7 @@
     <div class="ui segment w-seg">
         <div class="w-carou">
         <div style="background-image: url('/images/_pics/tech-5.jpg')" class='bgs w-img'>
-        <h1 class="ui left aligned header ptop ml11">
+        <h1 class="ui left aligned inverted header ptop ml11">
             <span class="text-wrapper">
                 <span class="line line1"></span>
                 <span class="letters">CODING FOR KIDS</span>
@@ -137,22 +137,30 @@
 
     <div class="ui items">
         <div class="item">
-            <a href="#" class="ui medium image">
-                <img src="https://picsum.photos/id/42/600/400" alt="">
+            <a href="#" class='image'>
+                <img src="./images/_pics/tech-4.jpg" alt="" class="ui medium image">
             </a>
             <div class="content">
-                <a href="#" class="header">Why Logic Kids ?</a>
-                <div class="ui text  container">
-                Logic kids is a fully practical educational program designed to bring creative skills to  kids in Ghana. Our Program focus on practicality and developing creative skills. We currently run 4 different program, which are Coding for Kids, Debators and Readers, Science for Kids and Robokids.
-         We believe every kid is a genius. It is our top priority to make the younger generation learn the applicable things that seeks to solve problems facing the country and also to better their lives and that of the generation after them.
+                <a href="#" class="header"> &nbsp; &nbsp; &nbsp;Why Logic Kids ?</a>
+                <div class="ui  container">
+                <p style='font-size:16px;'>
+                    Logic kids is a fully practical educational program designed to bring creative skills to  kids in Ghana. Our Program focus on practicality and developing creative skills. We currently run 4 different program, which are Coding for Kids, Debators and Readers, Science for Kids and Robokids.
+            We believe every kid is a genius. It is our top priority to make the younger generation learn the applicable things that seeks to solve problems facing the country and also to better their lives and that of the generation after them.
+            </p>
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- Registration Modal -->
+    <?php 
+        include './components/registration-modal.php'
+    ?>
     <h3>Program Overview</h3>
-    <div class="ui text container">
+    <div class="ui container">
+    <p style='font-size:16px'>
        We have got an arsenal of creative programs that is cherished across participating institutions. Our team is motivated to bring the best to kids around the country. Kids engage in open competitions to share ideas, work with curiousity and promote team work in their lifetime. We believe, when kids are giving enough time to work on things, however the outcome, It turns out to be innovate. The Logic Kids Program is really a stop shop to give your kids better education.
+       </p>
     </div>
 
     <br><br><br><br>
@@ -161,11 +169,6 @@
     ?>
 
 </div>
-
-
-    
-
-
 
 
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
@@ -213,6 +216,14 @@ anime.timeline({loop: true})
     easing: "easeOutExpo",
     delay: 1000
   });
+
+
+  setTimeout(function(){ 
+        $('.basic.modal')
+            .modal('show');
+            
+      ; }, 7000);
+
 
   </script>
 </body>

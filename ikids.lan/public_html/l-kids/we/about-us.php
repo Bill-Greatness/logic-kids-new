@@ -21,10 +21,12 @@
     <br/>
     <br/>
     <h3 class="ui header">About Logic Kids</h3>
-    <div class="ui segment placeholder">
-        <h3 class="ui header">About Us Here.. Carousel </h3> 
-    
+    <div class="ui segment w-seg">
+        <img src="../../images/_pics/sc-1-kids.jpg" width="100%"  alt="" class="ui  image w-img"> 
     </div>
+    <br/>
+    <br/>
+    <br/>
     <p class="ui container text">
         We are an educational organization that focus on giving a STEM (Science Technology Engineering and Mathematics) based training to kids around the country. We aim to define the future of kids by giving them what it takes to make the world a better place. Our lessons are highly practical and we work with school around the country to give the best of training to their students. We also organize sections the we speak with kids around about technology and do so to get kids informed about world and current trends.
     </p>

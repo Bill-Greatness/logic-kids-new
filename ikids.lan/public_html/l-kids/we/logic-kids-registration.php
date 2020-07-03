@@ -20,7 +20,11 @@
     <br/>
     <div class="pusher">
     <h3 class="ui header">Registration - Logic Kids</h3>
-    <p class="ui inverted container red text">You may register for a private session for your kid(s) and an active trainer reach out to you or you may also fill the forms below to request for a training session with schools. Remember that session with schools comes with benefits.</p>
+    <div class="ui container">
+    <p style='font-size:16px'>
+      You may register for a private session for your kid(s) and an active trainer reach out to you or you may also fill the forms below to request for a training session with schools. Remember that session with schools comes with benefits.
+    </p>
+    </div>
 
     <div class="ui  segment">
   <div class="ui two column very relaxed stackable grid">
@@ -41,12 +45,23 @@
     Or
   </div>
 </div>
-<h3 class="ui header">Benefit with Us.</h3>
+
+<h3 class="ui header">Private Registration</h3>
 <div class="ui container">
-    <div class="text">
+<p style='font-size:16px'>
+For Private Registrations, It is required for the student to have at least one working computer and/or a white/black board. Please also do well to consider the timing for the trainer who will take care of your kid's training. Once your registration processes is completed, The Logic Kids will reach out to you for any details about the program schedules.
+</p>
+</div>
+
+<h3 class="ui header">Institutions</h3>
+<div class="ui container">
+  <p style='font-size:16px'>
         Institutions registering for our programs get the benefit of us adversiting their institutions for them on our competitive programs
         and on our website. Some also benefit by recieving systems that enhances education.
-    </div>
+        <br/><br/>
+       If you're an institution that wants us to establish any of our clubs on your campus, We recommend fixing our club sessions at a time that will not interfere with the normal academic activities. You may also do well to contact us for any other details concerning the program.
+        </p>
+    
 </div>
 <br>
 <br>

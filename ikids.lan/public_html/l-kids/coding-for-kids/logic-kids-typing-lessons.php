@@ -19,29 +19,20 @@
     <br/>
     <br/>
     <h3 class="ui header">Typing Lesson for Kids</h3>
-    <p class="ui text container">
+    <p class="ui text">
         Typing is a must  requirement in the 21<sup>st</sup> century for not only tech inclined kids but for all. In order to be a great programmer, at least you'll have to learn to type. This lesson prepares kids to get their fingers ready for the keyboard. <br/><br/>
         Upon progress, they progress to the next level of the coding journey. This session requires patience on the side of kids and also since the beginning is not that comfortable to kids, we provide effective way for them to get the concepts faster.
     </p>
 
     <h3 class="ui header">Our Lesson Structure</h3>
-    <p class="ui text container">We begin by using introductory lesson structures for kids to remember which fingers responsible for typing with characters. We progress to help them to know how to type without looking on the keyboard for effective working experience. For them to keep practicing, we give them typing assignments based on their level of experience. We also organize a "Time on Keyboard" training session in which kids determines the shortest possible time to type some contents without look on the keyboard.</p>
+    <p class="ui text ">We begin by using introductory lesson structures for kids to remember which fingers responsible for typing with characters. We progress to help them to know how to type without looking on the keyboard for effective working experience. For them to keep practicing, we give them typing assignments based on their level of experience. We also organize a "Time on Keyboard" training session in which kids determines the shortest possible time to type some contents without look on the keyboard.</p>
 
-    <h3 class="ui header">Typing in Action</h3>
+    <h3 class="ui header">Typing:</h3>
     <p class="ui container">
-        <div class="ui grid three column stackable">
-            <div class="column">
-                <img src="https://picsum.photos/id/23/600/400" class='ui image rounded'>
+            <div class="image">
+            <img src="../../images/typing-for-kids.jpeg" width="100%"  alt="" class="ui  image w-img"> 
+               
             </div>
-
-            <div class="column">
-                <img src="https://picsum.photos/id/29/600/400" class='ui image rounded'>
-            </div>
-
-            <div class="column">
-                <img src="https://picsum.photos/id/27/600/400" class='ui image rounded'>
-            </div>
-        </div>
     </p>
 
     <!-- <h3 class="ui header">Comments From Participants</h3>

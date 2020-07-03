@@ -43,6 +43,12 @@ body, html{
     height: 350px !important;
 }
 
+
+.clubs{
+    font-weight: 400;
+    font-size: 16px;
+}
+
 .welcome-message{
     position: absolute;
     top:40%;

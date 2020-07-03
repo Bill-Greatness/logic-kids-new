@@ -19,15 +19,16 @@
         <br/>
         <br/>
         <h3 class="ui header">Logic Kids - Blog</h3>
-        <p>Get to know what is going on with kids and technology, find creative solutions and answers to kids questions. 
-        Elaborate on Ideas and Topic and beyond that, join us on our journey of making our country a better place.</p>
+        <p style='font-size:16px'>Find news about compelling ideas, kids, technology, philosophy and more. Reading more about addressing topics that makes the world a better place.
+          Kids First - Any other thing is a recommendation!
+        </p>
         
         <h2 class="ui header">Current Trends</h2>
         
         <div class="ui divided items">
   <div class="item">
     <div class="image">
-    <img src="https://fomantic-ui.com/images/wireframe/image.png">
+    <img src="../../images/education-in-africa.jpg">
     </div>
     <div class="content">
       <a class="header" href='/l-kids/blog/is-our-educational-system-encouraging-curiousity.php'>Is our Education System Encouraging Curiousity?</a>
@@ -35,7 +36,7 @@
         <span class="cinema">Bill Greatness - 23<sup>rd</sup> July, 2020 </span>
       </div>
       <div class="description">
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum repudiandae nam soluta magni nesciunt accusamus veritatis repellendus, alias natus facilis, autem praesentium?</p>
+        <p style='font-size:16px'>Isn't it amazing as to why we see  kids at other parts of the world doing great things in terms of invention, creativity, literacy and history whilst many kids in our country are rarely informed ? What are we doing or What are we lacking? On my 4 years journey as a ... </p>
       </div>
       <div class="extra">
       <div class="ui green label"><i class="graduation cap icon"></i> Education</div>

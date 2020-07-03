@@ -23,7 +23,7 @@
    <div class="column ">
     <div class="ui segment" style='border:none !important'>
             <img src="https://picsum.photos/id/832/400/400" alt="" class='ui image centered circular small'>
-                <p style='text-align:center' class='.ui inverted  text'>Rosa Nyame</p>
+                <h3 style='text-align:center' class='.ui inverted  text'>Rosa Nyame</h3>
                 <p class="ui inverted teal text" style='text-align:center'>CTO, Networking Club</p>
         </div>
     </div>
@@ -32,7 +32,83 @@
     <div class="column ">
     <div class="ui segment" style='border:none !important'>
             <img src="https://picsum.photos/id/831/400/400" alt="" class='ui image centered circular small'>
-                <p style='text-align:center' class='.ui inverted  text'>Samuel Smith</p>
+            <h3 style='text-align:center' class='.ui inverted  text'>Bill Greatness</h3>
+                <p class="ui inverted teal text" style='text-align:center'>CEO, Team Lead</p>
+        </div>
+    </div>
+
+    <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/830/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Augustine Smith</h3>
+                <p class="ui inverted teal text" style='text-align:center'>Co-Founder, Team Lead</p>
+        </div>
+    </div>
+
+    <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/829/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Tracy Sarah</h3>
+                <p class="ui inverted teal text" style='text-align:center'>CEO, BGC, HR</p>
+        </div>
+    </div>
+
+   </div>
+
+   <div class="ui grid four column centered padded stackable">
+
+   <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/832/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Peniel Nyinaku</h3>
+                <p class="ui inverted teal text" style='text-align:center'>Co-Founder, Team Lead</p>
+        </div>
+    </div>
+
+
+    <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/831/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Adasi Simon</h3>
+                <p class="ui inverted teal text" style='text-align:center'>Organizer,Trainer</p>
+        </div>
+    </div>
+
+    <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/830/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Eugene Tamakloe</h3>
+                <p class="ui inverted teal text" style='text-align:center'>Trainer</p>
+        </div>
+    </div>
+
+    <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/829/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Leslie Brobbery</h3>
+                <p class="ui inverted teal text" style='text-align:center'>Trainer</p>
+        </div>
+    </div>
+
+   </div>
+
+
+
+   <div class="ui grid four column centered padded stackable">
+
+   <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/832/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Abdul Samad</h3>
+                <p class="ui inverted teal text" style='text-align:center'>CTO, Networking Club</p>
+        </div>
+    </div>
+
+
+    <div class="column ">
+    <div class="ui segment" style='border:none !important'>
+            <img src="https://picsum.photos/id/831/400/400" alt="" class='ui image centered circular small'>
+            <h3 style='text-align:center' class='.ui inverted  text'>Georgette Arthur</h3>
                 <p class="ui inverted teal text" style='text-align:center'>Trainer, Robotics Club</p>
         </div>
     </div>
@@ -40,7 +116,7 @@
     <div class="column ">
     <div class="ui segment" style='border:none !important'>
             <img src="https://picsum.photos/id/830/400/400" alt="" class='ui image centered circular small'>
-                <p style='text-align:center' class='ui inverted  text'>James Powell</p>
+            <h3 style='text-align:center' class='.ui inverted  text'>... ... </h3>
                 <p class="ui inverted teal text" style='text-align:center'>Trainer, Robotics Club</p>
         </div>
     </div>
@@ -48,12 +124,13 @@
     <div class="column ">
     <div class="ui segment" style='border:none !important'>
             <img src="https://picsum.photos/id/829/400/400" alt="" class='ui image centered circular small'>
-                <p style='text-align:center' class='ui  text'>James Powell</p>
+            <h3 style='text-align:center' class='.ui inverted  text'>... ... </h3>
                 <p class="ui inverted teal text" style='text-align:center'>Trainer, Robotics Club</p>
         </div>
     </div>
 
    </div>
+
    <?php
         include '../../components/footer.php'
    ?>

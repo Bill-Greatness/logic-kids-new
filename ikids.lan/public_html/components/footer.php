@@ -38,47 +38,27 @@
 
         <div class="column">
                 <h3 class="ui header" style='color:white !important'>
-                Contact Us
-                <div class="sub header" style='color:yellow !important'>Get In Touch</div>
+                Our Programs
+                <div class="sub header" style='color:yellow !important'>Practical Educational Programs</div>
             </h3>
-            <div class="ui relaxed divided horizontal list">
+            <div class="ui relaxed  list">
                 <div class="item" >
-                    
-                    <a class="header" href='https://facebook.com/logickidsteam'><i class="large facebook middle aligned icon"></i></a>
-                </div>
-                <div class="item">
-                   
-                    <div class="content">
-                    <a class="header" href='https://twitter.com/logickidsteam'> <i class="large twitter middle aligned icon"></i></a>
-                    </div>
-                </div>
-                <div class="item">
-                    
-                    <div class="content">
-                    <a class="header" href='https://instagram.com/logickidsteam'><i class="large instagram middle aligned icon"></i></a>
-                    </div>
+                    <a href="/l-kids/programs/" class='clubs'>Coding Clubs</a>
                 </div>
 
-                <div class="item">
-                    
-                    <div class="content">
-                    <a class="header" href='tel:0509343841'><i class="large whatsapp middle aligned icon"></i></a>
-                    </div>
+                <div class="item" >
+                    <a href="/l-kids/programs/" class='clubs' >Debate Clubs</a>
                 </div>
 
-                <div class="item">
-                    
-                    <div class="content">
-                    <a class="header" href='mailto:logickidsteam@gmail.com'><i class="large at middle aligned icon"></i></a>
-                    </div>
+                <div class="item" >
+                    <a href="/l-kids/programs/" class='clubs'>Science Clubs </a>
                 </div>
 
-                <div class="item">
-                    
-                    <div class="content">
-                    <a class="header" href='tel:0509343841'><i class="large phone alternate middle aligned icon"></i></a>
-                    </div>
+                <div class="item" >
+                    <a href="/l-kids/programs/" class='clubs'>Robotic Clubs </a>
                 </div>
+
+               
 
             </div>
 
@@ -86,6 +66,85 @@
         </div>
         
         <div class="column">
+        <h3 class="ui header" style='color:white !important'>
+                Contact Us
+                <div class="sub header" style='color:yellow !important'>Get In Touch</div>
+            </h3>
+            <div class="ui stackable grid">
+            
+            <div class="row">
+                    <div class="column">
+                        <div class="ui three column  grid">
+                            <div class="column">
+                                <a href='https://facebook.com/logickidsteam'>
+                                
+                                <button class="ui icon facebook circular button">
+                                    <i class=" facebook icon"></i>
+                                </button>
+                                
+                                </a>
+                            </div>
+
+                            <div class="column">
+                                <a class="header" href='https://twitter.com/logickidsteam'>
+                                    <button class="ui icon twitter circular button">
+                                        <i class=" twitter icon"></i>
+                                    </button>
+                                </a>
+
+                            </div>
+                            <div class="column">
+                                <a class="header" href='https://instagram.com/logickidsteam'>
+
+                                    <button class="ui icon instagram circular button">
+                                                    <i class=" instagram icon"></i>
+                                    </button>
+
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                <div class="column">
+                        <div class="ui three column  grid">
+                            <div class="column">
+                            <a class="header" href='tel:0509343841'>
+                            <button class="ui icon whatsapp circular button">
+                                        <i class=" whatsapp icon"></i>
+                                    </button>
+                            </a>
+                            </div>
+
+                            <div class="column">
+                            <a class="header" href='mailto:logickidsteam@gmail.com'>
+                            <button class="ui icon google plus circular button">
+                                                    <i class=" mail icon"></i>
+                                    </button>
+                            
+                            </a>
+
+                            </div>
+                            <div class="column">
+                            <a class="header" href='tel:0509343841'>
+
+                            <button class="ui icon vk circular button">
+                                        <i class=" phone alternate icon"></i>
+                                </button>
+
+                            </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                
+                </div>
+
+            </div>
                 <h3 class="ui header" style='color:white !important'>Subscribe for More</h3>
                 <form action="/components/post-mail.php" method="post">
                     <div class="ui left icon fluid input">

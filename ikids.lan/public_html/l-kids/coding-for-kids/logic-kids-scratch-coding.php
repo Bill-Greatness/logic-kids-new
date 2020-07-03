@@ -18,17 +18,24 @@
     ?>
     <br/>
     <br/>
-    <h3 class="ui header">Scratch Coding for Kids</h3>
-    <p class="ui text container">Creating new and fixing things is at the heart of every curious kids. Scratch coding provides kids with basic lesson to get them started and prepare them for some advanced coding topics. Kids can learn to create games, animate stories and simulate situations through a simple drag and drop application. They get to understand how events are handled in advanced coding topics easily through using scratch.</p>
+    <h2 class="ui header">
+    <img class="ui image" src="../../images/scratch-coding.png">
+    <div class="content">
+        Scratch Coding For Kids
+    </div>
+    </h2>
+    <p style='font-size:16px'>Creating new and fixing things is at the heart of every curious kids. Scratch coding provides kids with basic lesson to get them started and prepare them for some advanced coding topics. Kids can learn to create games, animate stories and simulate situations through a simple drag and drop application. They get to understand how events are handled in advanced coding topics easily through using scratch.</p>
+
+    <p style='font-size:16px'>Programming concepts such as loops, conditions, event handling becomes soo easy for kids after using the scratch application. Scratch is basically for every one, regardless of your age, scratch can be a good start.</p>
 
     <h3 class="ui header">Program Structure</h3>
-    <p class="ui text container">Depending on the experience of kids being exposed to using a computer, Our Scratch lesson basically teaches kids how to drag and drop first, followed by learning to understand when to use the right and left buttons of the mouse. Basically we give them basic computer knowlegde before we start to code with scratch.
+    <p style='font-size:16px'>Depending on the experience of kids being exposed to using a computer, Our Scratch lesson basically teaches kids how to drag and drop first, followed by learning to understand when to use the right and left buttons of the mouse. Basically we give them basic computer knowlegde before we start to code with scratch.
     </p>
 
-    <p class="ui text container">We progress to using the scratch application for real world coding. We begin to explain blocks and the proper way to arrange them. Not only that but also when to use it. Our lessons are lively you won't miss a chance letting your kid(s) enroll in any of it. We build projects in groups and in private and showcase them. We contact short quizes after each lesson and we learn more to do more.</p>
+    <p style='font-size:16px'>We progress to using the scratch application for real world coding. We begin to explain blocks and the proper way to arrange them. Not only that but also when to use it. Our lessons are lively you won't miss a chance letting your kid(s) enroll in any of it. We build projects in groups and in private and showcase them. We contact short quizes after each lesson and we learn more to do more.</p>
 
     <h3 class="ui header">Projects By Kids</h3>
-    <div class="ui text container">
+    <div class="ui  container">
         <div class="ui grid five column stackable">
             <div class="column">
                 <img src="https://picsum.photos/id/33/600/400" alt="A Project Image" class='ui image rounded'>
